@@ -2,7 +2,6 @@
 node_modules/
 
 # Environment variables and keys
-.env
 stitch-key.json
 *.key
 *.pem
@@ -24,7 +23,6 @@ ehthumbs.db
 Thumbs.db
 
 # IDEs
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -33,3 +31,4 @@ Thumbs.db
 list_tools.js
 test_*.js
 gen_url.js
+config.bat
