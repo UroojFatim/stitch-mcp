@@ -7,7 +7,7 @@
     "stitch-mcp": "./index.js"
   },
   "scripts": {
-    "start": "node api.js && node index.js"
+    "start": "node init && node index.js"
   },
   "keywords": [
     "mcp",
